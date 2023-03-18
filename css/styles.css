@@ -1,0 +1,21 @@
+hr {
+    background-style: none;
+    height: 0px;
+    width: 5%;
+    border-style: none;
+    border-bottom: dotted;
+    border-color: rgb(82, 113, 192);
+    border-width: 5px;
+  }
+  body{
+    background-color: rgb(177, 212, 197);
+  }
+  img {
+    border-radius: 50%;
+  }
+  h1 {
+    color: rgb(42, 133, 102);
+  }
+  hr {
+    color: rgb(47, 156, 120);
+  }
